@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://neongrey.github.io/mj-studies/sitemap.xml

@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MJ 2-Dimensional Keyword Refs",
+    "description": "",
+    "home_page_url": "https://neongrey.github.io/mj-studies",
+    "feed_url": "https://neongrey.github.io/mj-studies/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "neongrey"
+    },
+    "items": [
+    ]
+}
